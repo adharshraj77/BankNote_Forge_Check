@@ -1,0 +1,25 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+ml_project/.venv/
+
+# Python cache & bytecode
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

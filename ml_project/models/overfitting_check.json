@@ -1,0 +1,11 @@
+{
+  "train_accuracy": 0.9946977730646872,
+  "val_accuracy": 1.0,
+  "accuracy_gap": -0.005302226935312793,
+  "train_f1": 0.9941792782305006,
+  "val_f1": 1.0,
+  "f1_gap": -0.005820721769499437,
+  "is_overfitting": false,
+  "is_underfitting": false,
+  "diagnosis": "[Optimal] Good Fit: Train and validation performance are well-aligned."
+}
